@@ -96,11 +96,8 @@ $responseData = json_decode($response, true);
 
 // Check if the request was successful
 if ($httpCode >= 200 && $httpCode < 300 && isset($responseData['id']) && isset($responseData['pix'])) {
-    // Prepare the success response
-    $pixData = $responseData['pix'];
-    
     // Extract the QR code data
-    $qrCode = isset($pixData['qrcode']) ? $pixData['qrcode'] : '';
+    $qrCode = isset($responseData['pix']['qrcode']) ? $responseData['pix']['qrcode'] : '';
     
     // Return the required data
     echo json_encode([
@@ -116,7 +113,7 @@ if ($httpCode >= 200 && $httpCode < 300 && isset($responseData['id']) && isset($
     // Handle API error response
     $errorMessage = isset($responseData['error']) ? $responseData['error'] : 'Unknown error occurred';
     
-    http_response_code(400);
+    http_response_code($httpCode);
     echo json_encode([
         'error' => 'Payment service error: ' . $errorMessage,
         'details' => $responseData
