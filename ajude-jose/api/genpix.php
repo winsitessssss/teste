@@ -1,6 +1,15 @@
 <?php
-// Set headers for JSON response
+// Set headers for JSON response and CORS
 header('Content-Type: application/json');
+header('Access-Control-Allow-Origin: *');
+header('Access-Control-Allow-Methods: POST, OPTIONS');
+header('Access-Control-Allow-Headers: Content-Type');
+
+// Handle preflight OPTIONS request
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    http_response_code(200);
+    exit;
+}
 
 // Check if the request method is POST
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
@@ -93,22 +102,13 @@ if ($httpCode >= 200 && $httpCode < 300 && isset($responseData['id']) && isset($
     // Extract the QR code data
     $qrCode = isset($pixData['qrcode']) ? $pixData['qrcode'] : '';
     
-    // Generate base64 image if not provided by API
-    // Note: Usually the API should provide this, but we're providing a fallback
-    $base64Image = '';
-    if (!empty($qrCode)) {
-        // In a real scenario, you might want to use a QR code generation library here
-        // For now, we'll assume the QR code text is usable as is
-        $base64Image = $qrCode;
-    }
-    
     // Return the required data
     echo json_encode([
         'transactionId' => $responseData['id'],
         'clientIdentifier' => $responseData['customer']['id'],
         'pix' => [
             'code' => $qrCode,
-            'base64' => $base64Image
+            'base64' => $qrCode
         ],
         'status' => $responseData['status']
     ]);
