@@ -1,0 +1,264 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajax\libs\toastr.js\latest\toastr.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajax\libs\toastr.js\latest\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://connect.facebook.net/en_US/fbevents.js
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\en_US\fbevents-1.js
+Content Type: application/x-javascript
+
+Uri: https://doe-com-esperanca.com/ajude-jose/
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\index-1.htm
+Content Type: text/html
+
+Uri: https://doe-com-esperanca.com/ajude-jose/compra.html
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\compra.html
+Content Type: text/html
+
+Uri: https://doe-com-esperanca.com/ajude-jose/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://doe-com-esperanca.com/ajude-jose/css/style.css
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\css\style-1.css
+Content Type: text/css
+
+Uri: https://doe-com-esperanca.com/ajude-jose/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\css\swiper-bundle.min-1.css
+Content Type: text/css
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/155cae559bbd1a77-s.p.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\155cae559bbd1a77-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/162938472036e0a8-s.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\162938472036e0a8-s-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/18663a228a3c9261-s.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\18663a228a3c9261-s-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/1c6f4cbc58bf1b54-s.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\1c6f4cbc58bf1b54-s-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/25460892714ab800-s.p.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\25460892714ab800-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/2f9f484c332ee5de-s.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\2f9f484c332ee5de-s-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/4de1fea1a954a5b6-s.p.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\4de1fea1a954a5b6-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/6d664cce900333ee-s.p.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\6d664cce900333ee-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/6ec89c3f4265bc9b-s.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\6ec89c3f4265bc9b-s-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/756f9c755543fe29-s.p.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\756f9c755543fe29-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/7ff6869a1704182a-s.p.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\7ff6869a1704182a-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/9364c9a9ce248cb1-s.p.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\9364c9a9ce248cb1-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/af4d27004aa34222-s.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\af4d27004aa34222-s-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/b15a336eec276995-s.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\b15a336eec276995-s-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/b5215411e8ce7768-s.p.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\b5215411e8ce7768-s.p-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/fonts/f1df658da56627d0-s.woff2
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\fonts\f1df658da56627d0-s-1.woff2
+Content Type: font/woff2
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/apple_store.svg
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\apple_store-1.svg
+Content Type: image/svg+xml
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/avs.svg
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\avs-1.svg
+Content Type: image/svg+xml
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/cicera.webp
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\cicera-1.webp
+Content Type: image/webp
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/favicon.ico
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\favicon-2.ico
+Content Type: image/x-icon
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/gabriela.webp
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\gabriela-1.webp
+Content Type: image/webp
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/google_play.svg
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\google_play-1.svg
+Content Type: image/svg+xml
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/icon.png
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\icon-1.png
+Content Type: image/png
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/imm.svg
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\imm-1.svg
+Content Type: image/svg+xml
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/jose.webp
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\jose-1.webp
+Content Type: image/webp
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/kc.webp
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\kc-1.webp
+Content Type: image/webp
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/leticia.webp
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\leticia-1.webp
+Content Type: image/webp
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/lo.webp
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\lo-1.webp
+Content Type: image/webp
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/logo.svg
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/logo_rodape.svg
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\logo_rodape-1.svg
+Content Type: image/svg+xml
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/pedro_henrique.webp
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\pedro_henrique-1.webp
+Content Type: image/webp
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/perfil.png
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\perfil-1.png
+Content Type: image/png
+
+Uri: https://doe-com-esperanca.com/ajude-jose/images/selo_seguranca.webp
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\images\selo_seguranca-1.webp
+Content Type: image/webp
+
+Uri: https://doe-com-esperanca.com/ajude-jose/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\js\bootstrap.min-1.js
+Content Type: text/javascript
+
+Uri: https://doe-com-esperanca.com/ajude-jose/js/check.js
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\js\check.js
+Content Type: text/javascript
+
+Uri: https://doe-com-esperanca.com/ajude-jose/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\js\jquery.min-1.js
+Content Type: text/javascript
+
+Uri: https://doe-com-esperanca.com/ajude-jose/js/scripts.js
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\js\scripts-1.js
+Content Type: text/javascript
+
+Uri: https://doe-com-esperanca.com/ajude-jose/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\ajude-jose\js\swiper-bundle.min-1.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew--1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\doe-com-esperanca.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w--1.ttf
+Content Type: font/ttf
+
